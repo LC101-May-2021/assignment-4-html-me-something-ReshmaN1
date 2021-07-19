@@ -1,1 +1,57 @@
-/* Write your CSS here! */
+element.style {
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+ul {
+    list-style-type: disc;
+}
+p {
+    margin-top: 80x;
+    margin-bottom: 80px;
+    margin-right: 60px;
+    margin-left: 40px;
+  }
+  
+  h1, h2 {
+   text-align: center;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-size: xxx-large;
+    color:Tomato;
+    
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(255, 217, 0);
+    font-size: xx-large;
+    color:rgb(61, 66, 139)
+    
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+img {
+    border: 5px solid #555;
+  }
+  p { 
+    text-indent: 70px;
+ }
+ p::first-letter {
+    font-size: 200%;
+    color: #2b56e2;
+  }
+  body {
+    background-color: lightgray(173, 228, 230);
+  }
+  .class {
+    css declarations;
+  outline: 5px dotted green;
+}
