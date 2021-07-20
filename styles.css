@@ -8,7 +8,7 @@
 body {
   max-width: 800px;
   width: 100%;
-  margin: 8px auto;
+  margin: 8px;
   background-color: lavender;
   background-image: url('./images/blur.jpg');
 }
@@ -17,7 +17,7 @@ header {
   text-align: center;
   width: 100%;
   background-color: rgb(250, 244, 230);
-  margin: 8px;;
+  margin: 8px;
   padding: 10px 20px;
 }
 
