@@ -1,5 +1,5 @@
-element.style {
-}
+ 
+
 li {
     display: list-item;
     text-align: -webkit-match-parent;
@@ -51,10 +51,8 @@ img {
   body {
     background-color: lightgray(173, 228, 230);
   }
-  .class {
-    css declarations;
+  .class { 
   outline: 5px dotted green;
 }
-Link{
+
   
-}
