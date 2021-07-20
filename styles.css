@@ -1,11 +1,14 @@
-html{
+ element{
+
+ } 
+  html{
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 body {
   max-width: 800px;
   width: 100%;
-  margin: 8px;
+  margin: 8px auto;
   background-color: lavender;
   background-image: url('./images/blur.jpg');
 }
@@ -73,4 +76,7 @@ footer{
   padding: 10px 20px;
   background-color: rgb(255, 255, 255);
   text-align: right;
+}
+green{
+  color-adjust: green;
 }
