@@ -5,7 +5,7 @@ html{
 body {
   max-width: 800px;
   width: 100%;
-  margin: 0px 8px;
+  margin: 8px;
   background-color: lavender;
   background-image: url('./images/blur.jpg');
 }
