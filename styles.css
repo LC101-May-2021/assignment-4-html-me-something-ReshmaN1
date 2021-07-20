@@ -13,7 +13,7 @@ body {
 header {
   text-align: center;
   width: 100%;
-  background-color: lavender;
+  background-color: rgb(250, 244, 230);
   margin: 0;
   padding: 10px 20px;
 }
@@ -64,7 +64,6 @@ img {
   width: 75%;
   height: 75%;
   padding: 0;
-  
   
 }
 
