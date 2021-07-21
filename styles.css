@@ -8,17 +8,21 @@
 body {
   max-width: 800px;
   width: 100%;
-  margin: 8px;
+  margin: 8px  ;
   background-color: lavender;
-  background-image: url('./images/blur.jpg');
+ background-image: url('./images/blur.jpg');
+  margin:auto;
+  border: 15px solid red;
+
 }
 
 header {
   text-align: center;
-  width: 100%;
+  max-width: 100%;
   background-color: rgb(250, 244, 230);
   margin: 8px;
-  padding: 10px 20px;
+  padding: 15px 25px;
+
 }
 
 h1 {
@@ -52,7 +56,7 @@ nav ul li {
 }
 
 article {
-  width: 100%;
+  max-width: 100%;
   background-color: rgb(230, 250, 242);
   padding: 10px 20px;
   margin: 0;
@@ -71,7 +75,7 @@ img {
 }
 
 footer{
-  width: 100%;
+  max-width: 100%;
   margin: 0;
   padding: 10px 20px;
   background-color: rgb(255, 255, 255);
