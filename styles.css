@@ -11,7 +11,7 @@ body {
   margin: 8px;
   background-color: lavender;
  background-image: url('./images/blur.jpg');
-  margin: auto;
+  
   border: 15px solid red;
 
 }
