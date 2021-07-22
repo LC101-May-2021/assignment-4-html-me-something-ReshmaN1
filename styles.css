@@ -1,1 +1,84 @@
-/* Write your CSS here! */
+ element{
+
+ } 
+  html{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body {
+  max-width: 800px;
+  width: 100%;
+  margin: 8px;
+  background-color: lavender;
+ background-image: url('./images/blur.jpg');
+  border: 15px solid red;
+  
+}
+
+header {
+  text-align: center;
+  max-width: 100%;
+  background-color: rgb(250, 244, 230);
+  margin: 8px;
+  padding: 15px 25px;
+
+}
+
+h1 {
+  text-align: center;
+  font-size: 3em;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2.5em;
+}
+
+.menu {
+  color: black;
+  text-decoration: none;
+}
+
+.menu:hover {
+  color: orangered;
+}
+
+nav ul {
+  list-style: none;
+  list-style-position: center;
+}
+
+nav ul li {
+  display: inline-block;
+  padding: 10px;
+  font-size: 1.5em;
+}
+
+article {
+  max-width: 100%;
+  background-color: rgb(230, 250, 242);
+  padding: 10px 20px;
+  margin: 0;
+
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 75%;
+  align-content: center;
+  width: 75%;
+  height: 75%;
+  padding: 0;
+  
+}
+
+footer{
+  max-width: 100%;
+  margin: 0;
+  padding: 10px 20px;
+  background-color: rgb(255, 255, 255);
+  text-align: right;
+}
+
