@@ -10,7 +10,7 @@ const options = {
    pretendToBeVisual: true
 }
 
-let html = fs.r21eadFileSync(path.resolve(__dirname, "../index.html"), 'utf8');
+let html = fs.readFileSync(path.resolve(__dirname, "../index.html"), 'utf8');
 let css = fs.readFileSync(path.resolve(__dirname, "../styles.css"), 'utf8')
 
 describe ("Grading Tests: ", function () {
