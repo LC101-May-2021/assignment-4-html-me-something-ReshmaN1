@@ -12,10 +12,7 @@ body {
   background-color: lavender;
  background-image: url('./images/blur.jpg');
   border: 15px solid red;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  
 }
 
 header {
